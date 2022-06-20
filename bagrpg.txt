@@ -1,0 +1,2 @@
+maca//alimento : 1
+wood espada//body arma : 4
